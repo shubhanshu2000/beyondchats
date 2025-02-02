@@ -1,0 +1,26 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .registration-container,
+  .organisation-container,
+  .integration-container {
+    padding: 10px;
+  }
+
+  input,
+  textarea,
+  button {
+    font-size: 14px;
+  }
+}
