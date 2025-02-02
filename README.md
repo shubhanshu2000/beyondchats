@@ -1,5 +1,10 @@
 # React + Vite
 
+- Deployed Link: [beyondchats-sandy.vercel.app](https://beyondchats-sandy.vercel.app/)
+- Install pnpm package manager to run the code locally by using this command npm install -g pnpm@latest-10 
+```sh
+npm install -g pnpm@latest-10
+```
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
