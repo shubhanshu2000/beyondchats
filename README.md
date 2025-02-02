@@ -1,7 +1,7 @@
 # React + Vite
 
 - Deployed Link: [beyondchats-sandy.vercel.app](https://beyondchats-sandy.vercel.app/)
-- Install pnpm package manager to run the code locally by using this command npm install -g pnpm@latest-10 
+- Install pnpm package manager to run the code locally by using this command 
 ```sh
 npm install -g pnpm@latest-10
 ```
